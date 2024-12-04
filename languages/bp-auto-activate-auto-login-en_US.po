@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bp Auto Activate Auto Login\n"
+"POT-Creation-Date: 2022-05-11 19:11+0530\n"
+"PO-Revision-Date: 2022-05-11 19:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:69
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:248
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:249
+msgid "BP Auto Activate Auto Login Settings"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:71
+msgid "Activation Redirection"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:72
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:130
+msgid "General settings"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:77
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:119
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:146
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:188
+msgid "Redirect to"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:80
+msgid ""
+"Default redirection url. Supported tags [user_url],[site_url],[network_url]"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:84
+msgid "Enable role based redirect?"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:88
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:112
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:139
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:157
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:181
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:208
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:219
+msgid "Yes"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:89
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:113
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:140
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:158
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:182
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:209
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:220
+msgid "No"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:91
+msgid "If enabled, you can configure role specific redirect below"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:103
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:172
+#, php-format
+msgid " Redirection settings for users with %s role."
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:108
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:177
+msgid "Enable?"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:115
+msgid "Only enabled role's redirect is used."
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:122
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:191
+msgid "Supported tags [user_url],[site_url],[network_url]"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:129
+msgid "Login Redirection"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:135
+msgid "Enable Login redirection?"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:142
+msgid "Enable/Disable login redirection functionality."
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:149
+msgid ""
+"Default redirect url. Supported tags [user_url],[site_url],[network_url]"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:153
+msgid "Enable Role based redirection?"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:160
+msgid ""
+"Only works if login redirection is enabled too. If enabled, role based "
+"redirection will be applied."
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:184
+msgid ""
+"Only enabled role's redirection is used. Otherwise, default url specified "
+"above will be used."
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:198
+msgid "Miscellaneous"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:199
+msgid "Email Notification Settings"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:204
+msgid "Enable Activation email?"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:211
+msgid ""
+"By default the activation email is disabled. If you enable it, Please make "
+"sure to Edit BuddyPress Activation Email template to reflect the changes."
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:215
+msgid "Disable Auto Login?"
+msgstr ""
+
+#: admin/class-bp-auto-activate-auto-login-admin-settings-helper.php:222
+msgid "If you disable it, User will not be auto login."
+msgstr ""
+
+#: admin/pt-settings/src/class-ajax-handler.php:45
+msgid "Invalid action."
+msgstr ""
+
+#: admin/pt-settings/src/class-ajax-handler.php:52
+msgid "Page details not found."
+msgstr ""
+
+#: admin/pt-settings/src/class-ajax-handler.php:67
+msgid "Page created successfully."
+msgstr ""
+
+#: admin/pt-settings/src/fields/class-image.php:63
+msgid "Remove"
+msgstr ""
+
+#: admin/pt-settings/src/fields/class-pages-dropdown.php:51
+msgid "Select Page"
+msgstr ""
+
+#: admin/pt-settings/src/fields/class-pages-dropdown.php:62
+msgid "Create"
+msgstr ""
+
+#: bp-auto-activate-auto-login.php:247
+msgid "There was an error activating your account, please try again."
+msgstr ""
+
+#: bp-auto-activate-auto-login.php:280 bp-auto-activate-auto-login.php:371
+msgid "Your account is now active!"
+msgstr ""
