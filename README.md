@@ -3,5 +3,5 @@
 ## How to use?
 
 - Download this project from Releases Page.
-- Upload the archives File in Dashboard-Plugins on your WordPress site.
+- Upload the archives File in Plugins-New Plugins on your WordPress Admin Site.
 - Enjoy it!
